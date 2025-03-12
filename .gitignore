@@ -2,4 +2,7 @@
 .vscode/
 .idea/
 .swp
+.csv
+.pptx
+// with the following snippet from .gitignore:
 
